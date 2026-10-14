@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-10-19T09:16:48+02:00",
+  "host": "WS-023",
+  "user": "CORP\\laura.martinez",
+  "alert": "Suspicious PowerShell execution",
+  "severity": "Medium",
+  "parent_process": "WINWORD.EXE",
+  "child_process": "powershell.exe",
+  "command_line": "powershell.exe -NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File C:\\Users\\laura.martinez\\AppData\\Local\\Temp\\update.ps1",
+  "status": "New"
+}

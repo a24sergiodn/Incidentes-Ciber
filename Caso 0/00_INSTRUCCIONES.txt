@@ -1,0 +1,14 @@
+CASO CERO - SESIÓN 3
+
+Son las 09:26. Aparecen nuevos datos sobre WS-041 y sobre la criticidad de los activos.
+
+Durante los proximos 20 minutos sois el equipo responsable del incidente.
+Debereis tomar y justificar decisiones, no limitaros a describir los eventos.
+
+Decidid:
+- qué equipos aislar;
+- qué indicadores bloquear o vigilar;
+- qué hacer con las cuentas;
+- qué buscar en el resto de la organización;
+- a quién informar y escalar;
+- qué condiciones exigiris antes de devolver un equipo a producción.

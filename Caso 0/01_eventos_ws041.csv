@@ -1,0 +1,5 @@
+﻿timestamp;host;user;source;event;parent;detail
+08:41:10;WS-041;CORP\carlos.souto;Endpoint;Process create;explorer.exe;OUTLOOK.EXE
+08:44:06;WS-041;CORP\carlos.souto;Endpoint;Process create;WINWORD.EXE;powershell.exe -NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File C:\Users\carlos.souto\AppData\Local\Temp\update.ps1
+08:44:13;WS-041;CORP\carlos.souto;DNS;Query;;cdn-office-update.example -> 203.0.113.84
+08:44:17;WS-041;CORP\carlos.souto;EDR;Registry modification;powershell.exe;HKCU\Software\Microsoft\Windows\CurrentVersion\Run modified

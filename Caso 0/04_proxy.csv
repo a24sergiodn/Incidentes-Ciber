@@ -1,0 +1,4 @@
+﻿timestamp;src_host;user;method;domain;uri;status;bytes_in
+09:10:28;WS-023;laura.martinez;GET;portal.empresa.example;/inicio;200;58210
+09:17:01;WS-023;laura.martinez;GET;cdn-office-update.example;/client/update.dat;200;184320
+09:18:44;WS-023;laura.martinez;GET;outlook.office.com;/owa/;200;91234

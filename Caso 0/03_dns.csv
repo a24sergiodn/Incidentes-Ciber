@@ -1,0 +1,4 @@
+﻿timestamp;host;query;answer;rcode
+09:11:42;WS-023;login.microsoftonline.com;20.190.160.17;NOERROR
+09:16:59;WS-023;cdn-office-update.example;203.0.113.84;NOERROR
+09:18:12;WS-023;teams.microsoft.com;52.113.194.132;NOERROR

@@ -1,0 +1,3 @@
+﻿timestamp;host;user;source;event;detail
+09:15:53;WS-023;CORP\laura.martinez;Endpoint;File opened;C:\Users\laura.martinez\Downloads\Factura_0926.docm by WINWORD.EXE
+09:17:08;WS-023;CORP\laura.martinez;EDR;Registry modification;"HKCU\Software\Microsoft\Windows\CurrentVersion\Run modified; related process reg.exe; parent powershell.exe"

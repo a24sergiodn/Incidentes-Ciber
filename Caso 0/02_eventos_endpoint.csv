@@ -1,0 +1,6 @@
+﻿timestamp;host;user;event_id;image;parent_image;command_line
+09:12:03;WS-023;CORP\laura.martinez;1;C:\Program Files\Google\Chrome\Application\chrome.exe;C:\Windows\explorer.exe;chrome.exe --profile-directory=Default
+09:14:21;WS-023;CORP\laura.martinez;1;C:\Program Files\Microsoft Office\root\Office16\OUTLOOK.EXE;C:\Windows\explorer.exe;OUTLOOK.EXE
+09:16:47;WS-023;CORP\laura.martinez;1;C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe;C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE;powershell.exe -NoProfile -WindowStyle Hidden -ExecutionPolicy Bypass -File C:\Users\laura.martinez\AppData\Local\Temp\update.ps1
+09:16:52;WS-023;CORP\laura.martinez;1;C:\Windows\System32\reg.exe;C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe;reg.exe ADD HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+09:18:06;WS-023;CORP\laura.martinez;1;C:\Windows\System32\SearchHost.exe;C:\Windows\System32\svchost.exe;SearchHost.exe

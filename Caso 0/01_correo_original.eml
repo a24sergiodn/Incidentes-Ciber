@@ -1,0 +1,16 @@
+From: Facturacion Proveedor <facturacion@proveedor-example.com>
+To: Laura Martinez <laura.martinez@empresa.example>
+Date: Mon, 19 Oct 2026 08:59:32 +0200
+Subject: Factura pendiente septiembre
+Message-ID: <20261019085932.8172@proveedor-example.com>
+Authentication-Results: mx.empresa.example; spf=fail; dkim=none; dmarc=fail
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Buenos dias,
+
+Adjuntamos la factura pendiente correspondiente al mes de septiembre.
+
+Adjunto indicado por la pasarela de correo: Factura_0926.docm
+
+Un saludo.
